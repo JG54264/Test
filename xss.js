@@ -1,1 +1,1 @@
-document.write('PWND3');
+alert('PWND69');
